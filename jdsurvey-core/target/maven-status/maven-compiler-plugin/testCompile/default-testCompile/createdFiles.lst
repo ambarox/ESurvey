@@ -1,0 +1,12 @@
+com/jd/survey/dao/defaults/JDBCTemplateTests.class
+com/jd/survey/dao/defaults/QueriesDAO.class
+com/jd/survey/dao/defaults/JobScheduler.class
+com/jd/survey/dao/defaults/proofDAOTest.class
+com/jd/survey/dao/defaults/AppType.class
+com/jd/survey/dao/defaults/TestJob.class
+com/jd/survey/dao/defaults/JDBCTemplateTests$1.class
+com/jd/survey/dao/defaults/QueriesDAOImp.class
+com/jd/survey/dao/defaults/MVELtest.class
+com/jd/survey/dao/defaults/AdvancedJPAQueries.class
+com/jd/survey/dao/defaults/TestLocales.class
+com/jd/survey/dao/defaults/SimpleTests.class

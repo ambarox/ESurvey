@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../jdsurvey-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jdsurvey-comcont" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jdsurvey-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jdsurvey-extcont" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jdsurvey-intcont" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jdsurvey-intweb" charset="UTF-8" />
+  </component>
+</project>

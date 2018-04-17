@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin" />
+        <module name="jdsurvey-comcont" />
+        <module name="jdsurvey-core" />
+        <module name="jdsurvey-extcont" />
+        <module name="jdsurvey-intcont" />
+        <module name="surveys" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.6" />
+      <module name="jdsurvey-all" target="1.5" />
+      <module name="jdsurvey-comcont" target="1.6" />
+      <module name="jdsurvey-core" target="1.6" />
+      <module name="jdsurvey-extcont" target="1.6" />
+      <module name="jdsurvey-intcont" target="1.6" />
+      <module name="surveys" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
